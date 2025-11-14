@@ -29,14 +29,8 @@ Ancien tireur d’élite reconverti dans le développement web, j’applique auj
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
-📩 **Mail** — anisse.lebadi@sfr.fr  
-💼 **LinkedIn** — https://www.linkedin.com/in/anisse-lebadi  
-🌐 **Portfolio** — https://anisselbd.github.io/CV/  
-
----
-
-<p align="center">
-  <b>🔵 Code clean. 🔵 UI propre. 🔵 Mentalité sniper.</b>
-</p>
+ **Mail** — anisse.lebadi@sfr.fr  
+ **LinkedIn** — https://www.linkedin.com/in/anisse-lebadi  
+ **Portfolio** — https://anisselbd.github.io/CV/  
