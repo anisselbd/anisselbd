@@ -33,4 +33,4 @@ Ancien tireur d’élite reconverti dans le développement web, j’applique auj
 
  **Mail** — anisse.lebadi@sfr.fr  
  **LinkedIn** — https://www.linkedin.com/in/anisse-lebadi  
- **Portfolio** — anisselbd.github.io/Portfolio/ 
+ **Portfolio** — https://anisselbd.github.io/Portfolio/ 
