@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">
-  <span style="font-size: 72px; font-weight: 900;">
-    ANISSE
+  <span style="font-size: 62px; font-weight: 800; letter-spacing: 2px;">
+    Ａｎｉｓｓｅ
   </span>
 </h1>
 
