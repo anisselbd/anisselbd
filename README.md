@@ -3,7 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=anisselbd&label=Vues%20du%20profil&style=for-the-badge" />
 </p>
 
-<h1 align="center">👋 Salut, moi c'est Anisse</h1>
+<h1 align="center">
+  <span style="font-size: 72px; font-weight: 900;">
+    ANISSE
+  </span>
+</h1>
 
 <p align="center">
   <b>Développeur Web Full-Stack. Passionné, précis, orienté produits SaaS.</b>
