@@ -3,10 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=anisselbd&label=Vues%20du%20profil&style=for-the-badge" />
 </p>
 
-<h1 align="center">
-  <span style="font-size: 62px; font-weight: 800; letter-spacing: 2px;">
-    Ａｎｉｓｓｅ
-  </span>
+<h1 align="center" style="font-size: 64px; font-weight: 700;">
+  Anisse
 </h1>
 
 <p align="center">
