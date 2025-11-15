@@ -26,13 +26,12 @@ Ancien tireur d’élite reconverti dans le développement web, j’applique auj
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postman,mongodb,mysql,html,css,tailwind,vite,figma,github,vscode,cursor,warp" />
 
-![](https://hit.yhype.me/github/profile?account_id=142441328)
 </p>
-
 ---
-
 ##  Me contacter
 
  **Mail** — anisse.lebadi@sfr.fr  
  **LinkedIn** — https://www.linkedin.com/in/anisse-lebadi  
  **Portfolio** — https://anisselbd.github.io/Portfolio/ 
+
+![](https://hit.yhype.me/github/profile?account_id=142441328)
