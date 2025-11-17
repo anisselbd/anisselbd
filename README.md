@@ -27,8 +27,6 @@ Ancien tireur d’élite reconverti dans le développement web, j’applique auj
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postman,mongodb,mysql,html,css,tailwind,vite,figma,github,vscode,cursor,warp" />
 </p>
 
----
-
 ##  Me contacter
 
  **Mail** — anisse.lebadi@sfr.fr  
